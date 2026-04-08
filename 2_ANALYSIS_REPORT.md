@@ -133,7 +133,7 @@ Result: LOS C (Delay: 20-35 seconds; actual = 18 seconds)
 #### Improvement
 - **Delay Reduction:** 62 - 18 = 44 seconds (71% improvement)
 - **Queue Reduction:** 35 - 8 = 27 vehicles (77% improvement)
-- **LOS Upgrade:** E → C (2 grades improvement)
+- **LOS Upgrade:** E → B (3 grades improvement)
 
 ### 2.4 Roundabout Design LOS Analysis
 
