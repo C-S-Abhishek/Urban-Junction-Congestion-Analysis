@@ -1,5 +1,5 @@
 # JP NAGAR JUNCTION - ANALYSIS REPORT
-## Urban Nexus: Intelligent Traffic Management and Geometric Optimization
+## METROPOLIS: Integrated Signal and Geometric Optimization for Urban Junction Performance
 
 ---
 
@@ -26,7 +26,7 @@ JP Nagar signalized intersection operates under failing conditions with a Volume
 This analysis evaluates three strategies:
 1. Baseline (existing condition) - No intervention
 2. Signal Optimization - Retiming to 63-second cycle with free left turns
-3. Roundabout Conversion - 55m diameter, 3-lane turbo-roundabout
+3. Roundabout Conversion - 50m diameter, 3-lane turbo-roundabout
 
 ### 1.3 Key Findings
 - Signal optimization reduces delay by 71% (62 → 18 seconds) at minimal cost
